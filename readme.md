@@ -18,7 +18,7 @@ pip install requests numpy
 
 - CF_ACCOUNT_ID: cloudflare account id，cloudflare 官网控制台获取
 - CF_AUTH_TOKEN: cloufdflare auth token，cloudflare 官网控制台获取
-- ValTown_Url: val.twon创建一个api代理服务的访问链接（"https://xxxxxx.web.val.run/api/ai-proxy"）
+- ValTown_Url: val.twon创建一个api代理服务的访问链接（例：`https://xxxxxx.web.val.run/api/ai-proxy`）
 
 ### 2.1 ValTown_Url
 
